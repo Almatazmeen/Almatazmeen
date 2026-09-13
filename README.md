@@ -11,7 +11,7 @@
       <img src="https://img.shields.io/badge/Portfolio-Visit-343434?style=flat&labelColor=343434&color=8FA36A" alt="Portfolio"/>
     </a>
     &nbsp;
-    <a href="YOUR_LINKEDIN_URL">
+    <a href="https://www.linkedin.com/in/almatazmeen">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-343434?style=flat&labelColor=343434&color=8FA36A" alt="LinkedIn"/>
     </a>
     &nbsp;
