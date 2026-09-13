@@ -30,7 +30,7 @@ Software Engineer focused on <b>backend development, AI/ML, and full-stack appli
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,fastapi,nextjs,react,postgresql,git,github&perline=9" height="32" alt="Tech Stack">
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,fastapi,nextjs,react,postgresql,git,github&perline=9" height="28" alt="Tech Stack">
 
 <br><br>
 
