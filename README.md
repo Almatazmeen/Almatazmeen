@@ -30,8 +30,7 @@ Software Engineer focused on <b>backend development, AI/ML, and full-stack appli
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,fastapi,nextjs,react,postgresql,git,github&perline=9" height="60" alt="Tech Stack">
-
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,fastapi,nextjs,react,postgresql,git,github&perline=9" height="45" alt="Tech Stack">
 <br><br>
 <b>AI/ML:</b> Scikit-learn · XGBoost · Pandas · NumPy · SHAP · Whisper · OpenCV · MediaPipe
 </div>
