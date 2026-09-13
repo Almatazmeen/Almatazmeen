@@ -1,56 +1,64 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Alma%20Tazmeen&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20%26%20Machine%20Learning%20%E2%80%A2%20Full-Stack%20Developer&descFontSize=17&descAlignY=62&descColor=ffffff" width="100%"/>
+# Alma Tazmeen
 
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Building+AI-powered+applications;Developing+backend+systems;Exploring+Generative+AI+and+LLMs;Turning+ideas+into+real-world+software" alt="Typing SVG"/>
-  </p>
+### Software Engineer · Backend · AI/ML · Full-Stack
 
-  <p>
-    <a href="https://portfolio-alma.vercel.app">
-      <img src="https://img.shields.io/badge/Portfolio-Visit-181825?style=flat&labelColor=313244&color=A6E3A1" />
-    </a>
-    &nbsp;
-    <a href="YOUR_LINKEDIN_URL">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-181825?style=flat&labelColor=313244&color=89B4FA" />
-    </a>
-    &nbsp;
-    <a href="mailto:YOUR_EMAIL">
-      <img src="https://img.shields.io/badge/Email-Contact-181825?style=flat&labelColor=313244&color=F38BA8" />
-    </a>
-  </p>
+Building reliable software and intelligent applications with a focus on
+backend engineering, modern web technologies, and practical AI.
+
+<br>
+
+<a href="https://portfolio-alma.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-24292F?style=flat-square" />
+</a>
+&nbsp;
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-24292F?style=flat-square" />
+</a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-Contact-24292F?style=flat-square" />
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About
+## About
 
-Software Engineer focused on **Python backend development, AI/ML, and full-stack applications**.
+Software Engineer with hands-on experience in **backend development, REST APIs,
+databases, full-stack applications, and AI/ML systems**.
 
-I enjoy building practical software that brings together **backend engineering, intelligent systems, and modern AI technologies**.
+I enjoy designing practical solutions that combine strong software engineering
+fundamentals with modern AI technologies.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**  
-`Python` `JavaScript` `SQL`
+Python · JavaScript · TypeScript · SQL
 
-**Backend & Web**  
-`FastAPI` `Flask` `Node.js` `Express` `React`
+**Web & Backend**  
+FastAPI · Flask · Next.js · React · REST APIs
 
-**AI & Machine Learning**  
-`Scikit-learn` `XGBoost` `Pandas` `NumPy` `Whisper` `OpenCV` `MediaPipe`
+**Databases**  
+PostgreSQL · MySQL · SQLite · Prisma
 
-**Databases & Tools**  
-`MySQL` `SQLite` `MongoDB` `Git` `GitHub`
+**AI / ML**  
+Scikit-learn · XGBoost · Pandas · NumPy · SHAP · Whisper · OpenCV · MediaPipe
+
+**Tools**  
+Git · GitHub · VS Code · Render · Vercel
 
 ---
 
-## 🎯 Currently Exploring
+## Currently
 
-`Generative AI` · `LLMs` · `RAG` · `AI Agents` · `DSA` · `System Design`
+Focused on building production-ready applications while strengthening:
+
+`Backend Engineering` · `Generative AI` · `LLMs` · `DSA` · `System Design`
 
 ---
 
